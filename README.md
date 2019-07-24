@@ -14,11 +14,10 @@ Demo:
 
 
 ## Scripts
-Java Spring 과 React.js 을 아래 3단계 실행이 필요함.
-실행 후  http://localhost:3000 접속함.
+아래 스크립트 실행 후  http://localhost:8080 접속함.
 
 ```
-java -jar target/book-search-0.0.1.jar
+java -jar book-search-0.0.1.jar
 ```
 
 
