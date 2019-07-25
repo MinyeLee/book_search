@@ -15,7 +15,8 @@ Demo:
 
 
 ## Scripts
-[기능 점검을 위한 빌드 결과물](https://drive.google.com/file/d/1ppqOa_Qj70uD5FYFfrTZgdQuE0liDemO/view?usp=sharing){:target="_blank" rel="noopener"} <br/>
+기능 점검을 위한 빌드 결과물 : 
+ <a href="https://drive.google.com/file/d/1ppqOa_Qj70uD5FYFfrTZgdQuE0liDemO/view?usp=sharing" target="blank">book-search-0.0.1.jar</a><br/>
 H2 스크립트 실행 후 Jar 파일 실행.
 http://localhost:8080 접속함.
 
