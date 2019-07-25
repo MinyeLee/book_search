@@ -14,13 +14,16 @@ Demo:
 
 
 ## Scripts
-아래 스크립트 실행 후  http://localhost:8080 접속함.
+H2 스크립트 실행 후 Jar 파일 실행.
+http://localhost:8080 접속함.
+
+```
+./h2.sh
+```
 
 ```
 java -jar book-search-0.0.1.jar
 ```
-
-
 
 ### Built with
 
@@ -40,7 +43,6 @@ java -jar book-search-0.0.1.jar
 * 전역 예외 처리 로직 작성 ( Exception )
 
 **ExceptionController**
-* 테스트
 * Checked : SQLException
 * Unchecked (Runtime): BookRuntimeException, illegalArgumentException
 
