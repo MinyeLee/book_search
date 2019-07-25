@@ -5,7 +5,7 @@ Book Search는 도서 빅데이터 검색 서비스입니다.
 ## Video
 https://youtu.be/WU8tigrcLtg
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=WU8tigrcLtg
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/WU8tigrcLtg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Demo: 
