@@ -3,7 +3,7 @@
 Book Search는 도서 빅데이터 검색 서비스입니다.  
 
 ## Video
-<iframe width="640" height="360" src="https://youtu.be/WU8tigrcLtg" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+https://youtu.be/WU8tigrcLtg
 
 Demo: 
 1. 회원가입 후 로그인 인증 절차를 밟아야함.
