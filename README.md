@@ -3,12 +3,12 @@
 Book Search는 도서 빅데이터 검색 서비스입니다.  
 
 ## Video
-[BookSearh DEMO](https://youtu.be/WU8tigrcLtg)<br/>
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=WU8tigrcLtg
 " target="_blank"><img src="http://img.youtube.com/vi/WU8tigrcLtg/0.jpg" 
 alt=“BookSearch” width=“1024” height=“768” border="10" /></a>
 
-Demo: 
+Demo: [BookSearh DEMO](https://youtu.be/WU8tigrcLtg)<br/>
 1. 회원가입 후 로그인 인증 절차를 밟아야함.
 2. 키워드를 통해 책을 검색하실 수 있으며, 결과는 페이지네이션 형태로 제공됨.
 3. Info를 클릭하여 도서 상세 조회가 가능함.
