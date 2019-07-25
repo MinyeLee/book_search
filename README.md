@@ -28,8 +28,8 @@ Demo: [BookSearh DEMO](https://youtu.be/WU8tigrcLtg)<br/>
 ```
 java -jar book-search-0.0.1.jar
 ```
-<img src=“https://user-images.githubusercontent.com/6896920/61861845-bfdbdd80-af07-11e9-8a5f-f3ba20df61cd.png” width=“90%”></img>
 
+![Alt text](https://user-images.githubusercontent.com/6896920/61861845-bfdbdd80-af07-11e9-8a5f-f3ba20df61cd.png "Optional title")
 ### Built with
 
 * Java8 ( @FunctionalInterface )
